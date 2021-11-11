@@ -50,14 +50,5 @@ def safeHouses(m,r):
 print(safeHouses(m,r)) 
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
 
 
